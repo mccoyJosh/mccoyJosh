@@ -1,9 +1,2 @@
-I am
-A
-Bear
+It's josh
 
-...
-
-
-
-in a window
